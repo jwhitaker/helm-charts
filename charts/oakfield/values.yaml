@@ -1,0 +1,10 @@
+ddclient:
+  daemon: 300
+  syslog: yes
+  protocol: easydns
+  use: web
+  web: https://domains.google.com/checkip
+  server: members.easydns.com
+  login: 
+  password: 
+  host: 
