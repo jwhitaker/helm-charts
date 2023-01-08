@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ddclient:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-08T14:59:30.601571-05:00"
+    description: A helm chart for ddclient
+    digest: 9d6578d43394ed4ef6eb4aacd8e2dd32fcad207435f803189888a8152556c8c6
+    name: ddclient
+    type: application
+    urls:
+    - https://jwhitaker.github.io/helm-charts/ddclient-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-08T14:59:30.600981-05:00"
